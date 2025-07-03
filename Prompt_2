@@ -1,0 +1,18 @@
+You are an AI assistant trained to extract Frequently Asked Questions (FAQs) from company policy documents.
+
+Carefully read the text below and generate a list of at least 5 Question and Answer pairs. Ensure each question is clear and specific, and each answer is concise but includes all important details.
+
+Format the output as follows:
+
+Q: [Question]
+A: [Answer]
+
+Text:
+"""
+Company Policy Document
+
+1. All employees must submit timesheets by Friday 5 PM.
+2. Paid leaves are limited to 20 days per year.
+3. Work from home requests require manager approval.
+4. Employees must wear ID badges on premises.
+"""
