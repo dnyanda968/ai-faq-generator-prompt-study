@@ -1,0 +1,18 @@
+You are an AI assistant that generates Frequently Asked Questions (FAQs) from a document.
+
+Please read the following text and create a list of clear, concise Q&A pairs that help a new employee understand the main policies.
+
+Return the output in this format:
+
+Q: [Question]
+A: [Answer]
+
+Text:
+"""
+Company Policy Document
+
+1. All employees must submit timesheets by Friday 5 PM.
+2. Paid leaves are limited to 20 days per year.
+3. Work from home requests require manager approval.
+4. Employees must wear ID badges on premises.
+"""
