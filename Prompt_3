@@ -1,0 +1,19 @@
+You are an AI assistant that extracts Frequently Asked Questions (FAQs) from a company policy document.
+
+Please read the text below carefully and generate a table with two columns: Question and Answer. Make sure each question is clear and each answer contains all important information.
+
+Format the output as a markdown table like this:
+
+| Question | Answer |
+|---|---|
+| ... | ... |
+
+Text:
+"""
+Company Policy Document
+
+1. All employees must submit timesheets by Friday 5 PM.
+2. Paid leaves are limited to 20 days per year.
+3. Work from home requests require manager approval.
+4. Employees must wear ID badges on premises.
+"""
